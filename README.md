@@ -5,7 +5,7 @@
 **Affiliation:** Independent Researcher, University of Washington — Seattle, WA, USA  
 **Date:** October 2025 | **Version:** 1.0  
 **GitHub:** [@collingeorge](https://github.com/collingeorge)  
-**Contact:** [contact](https://collingeorge9.wordpress.com/contact)  
+**Contact:** [Website](https://collingeorge9.wordpress.com/contact)  
 **X (Twitter):** [@CollinGeor12178](https://x.com/CollinGeor12178)
 
 ---
