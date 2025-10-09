@@ -1,4 +1,4 @@
-# 🇺🇸 The Eight Grand Challenges Facing the United States
+# The Eight Grand Challenges Facing the United States
 ### **A Framework for National Resilience**
 
 **Prepared by:** Collin B. George, BS  
