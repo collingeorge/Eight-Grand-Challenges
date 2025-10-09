@@ -1,33 +1,10 @@
 # The Eight Grand Challenges Facing the United States
 ## **A Framework for National Resilience**
 
----
-
-## Documents
-- [**National_Resilience_Framework (PDF)**](./National_Resilience_Framework.pdf)  
-
----
-
-**Prepared by:** Collin B. George, BS  
-**Affiliation:** Independent Researcher, University of Washington — Seattle, WA, USA  
-**Date:** October 2025 | **Version:** 1.0  
-**GitHub:** [@collingeorge](https://github.com/collingeorge)  
-**Contact:** [contact](https://collingeorge9.wordpress.com/contact)  
-**X (Twitter):** [@CollinGeor12178](https://x.com/CollinGeor12178)
-
 ![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-blue.svg)  
 ![Status: Independent Research](https://img.shields.io/badge/Status-Independent%20Research-lightgrey)  
 ![Last Updated](https://img.shields.io/badge/Updated-October%202025-brightgreen)  
 ![Stars](https://img.shields.io/github/stars/collingeorge/Eight-Grand-Challenges?style=social)  
-
----
-
-## 👤 About the Author
-
-**Collin B. George, BS** is a premedical student and clinical laboratory technician at the **University of Washington**, where he works alongside anesthesiologists and intensivists on perioperative research and quality improvement initiatives.  
-His work integrates **biomedical science**, **computer science**, and **clinical methodology**, with emphasis on **opioid-sparing strategies**, **patient recovery**, and **ethical innovation in anesthesia practice**.
-
----
 
 ## 🧭 Executive Summary
 
@@ -38,6 +15,11 @@ Guided by a **“do no harm”** principle, this framework identifies **eight gr
 Each domain is interdependent and sequential: **energy resilience powers secure communications, which enable trusted AI and manufacturing, ultimately supporting healthcare and ethical governance**.
 
 This national framework ensures an **ethical, resilient, and technologically sovereign United States**.
+
+---
+
+## Documents
+- [**National_Resilience_Framework (PDF)**](./National_Resilience_Framework.pdf)  
 
 ---
 
@@ -134,6 +116,20 @@ This national framework ensures an **ethical, resilient, and technologically sov
 8. Brookings Institution — *Automation and the Future of Work* (2023)  
 9. EPA — *PFAS Strategic Roadmap* (2024 Update)  
 10. NIH / BRAIN Initiative — *Ethical Considerations in Neurotechnology Research* (2023)
+
+---
+
+## 👤 About the Author
+
+**Collin B. George, BS** is a premedical student and clinical laboratory technician at the **University of Washington**, where he works alongside anesthesiologists and intensivists on perioperative research and quality improvement initiatives.  
+His work integrates **biomedical science**, **computer science**, and **clinical methodology**, with emphasis on **opioid-sparing strategies**, **patient recovery**, and **ethical innovation in anesthesia practice**.
+
+**Prepared by:** Collin B. George, BS  
+**Affiliation:** Independent Researcher, University of Washington — Seattle, WA, USA  
+**Date:** October 2025 | **Version:** 1.0  
+**GitHub:** [@collingeorge](https://github.com/collingeorge)  
+**Contact:** [contact](https://collingeorge9.wordpress.com/contact)  
+**X (Twitter):** [@CollinGeor12178](https://x.com/CollinGeor12178)
 
 ---
 
