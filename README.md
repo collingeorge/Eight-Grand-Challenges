@@ -32,8 +32,6 @@ Each domain is interdependent and sequential: **energy resilience powers secure 
 
 This national framework ensures an **ethical, resilient, and technologically sovereign United States**.
 
-![Eight Grand Challenges Logo](./egc-logo.png)  
-
 ---
 
 ## ⚡ The Eight Grand Challenges
