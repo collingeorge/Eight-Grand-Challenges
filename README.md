@@ -1,6 +1,13 @@
 # The Eight Grand Challenges Facing the United States
 ## **A Framework for National Resilience**
 
+---
+
+## Documents
+- [**National_Resilience_Framework (PDF)**](./National_Resilience_Framework.pdf)  
+
+---
+
 **Prepared by:** Collin B. George, BS  
 **Affiliation:** Independent Researcher, University of Washington — Seattle, WA, USA  
 **Date:** October 2025 | **Version:** 1.0  
