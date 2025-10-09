@@ -1,12 +1,17 @@
-# The Eight Grand Challenges Facing the United States
-### **A Framework for National Resilience**
+# 🇺🇸 The Eight Grand Challenges Facing the United States
+## **A Framework for National Resilience**
 
 **Prepared by:** Collin B. George, BS  
 **Affiliation:** Independent Researcher, University of Washington — Seattle, WA, USA  
 **Date:** October 2025 | **Version:** 1.0  
 **GitHub:** [@collingeorge](https://github.com/collingeorge)  
-**Contact:** [Website](https://collingeorge9.wordpress.com/contact)  
+**Contact:** [contact](https://collingeorge9.wordpress.com/contact)  
 **X (Twitter):** [@CollinGeor12178](https://x.com/CollinGeor12178)
+
+![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-blue.svg)  
+![Status: Independent Research](https://img.shields.io/badge/Status-Independent%20Research-lightgrey)  
+![Last Updated](https://img.shields.io/badge/Updated-October%202025-brightgreen)  
+![Stars](https://img.shields.io/github/stars/collingeorge/Eight-Grand-Challenges?style=social)  
 
 ---
 
@@ -18,7 +23,6 @@ His work integrates **biomedical science**, **computer science**, and **clinical
 ---
 
 ## 🧭 Executive Summary
-![Eight Grand Challenges Logo](./egc-logo.png)
 
 The United States faces over **$1 trillion** in potential losses from converging crises in energy, health, technology, and security, demanding urgent action.  
 While rapid innovation has fueled prosperity, it has also exposed vulnerabilities in infrastructure, supply chains, healthcare, and digital ecosystems.
@@ -27,6 +31,8 @@ Guided by a **“do no harm”** principle, this framework identifies **eight gr
 Each domain is interdependent and sequential: **energy resilience powers secure communications, which enable trusted AI and manufacturing, ultimately supporting healthcare and ethical governance**.
 
 This national framework ensures an **ethical, resilient, and technologically sovereign United States**.
+
+![Eight Grand Challenges Logo](./egc-logo.png)  
 
 ---
 
