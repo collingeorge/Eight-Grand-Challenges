@@ -18,6 +18,7 @@ His work integrates **biomedical science**, **computer science**, and **clinical
 ---
 
 ## 🧭 Executive Summary
+![Eight Grand Challenges Logo](./egc-logo.png)
 
 The United States faces over **$1 trillion** in potential losses from converging crises in energy, health, technology, and security, demanding urgent action.  
 While rapid innovation has fueled prosperity, it has also exposed vulnerabilities in infrastructure, supply chains, healthcare, and digital ecosystems.
