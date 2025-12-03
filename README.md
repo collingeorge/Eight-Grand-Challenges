@@ -119,17 +119,15 @@ This national framework ensures an **ethical, resilient, and technologically sov
 
 ---
 
-## 👤 About the Author
+## About the Author
 
-**Collin B. George, BS** is a premedical student and clinical laboratory technician at the **University of Washington**, where he works alongside anesthesiologists and intensivists on perioperative research and quality improvement initiatives.  
-His work integrates **biomedical science**, **computer science**, and **clinical methodology**, with emphasis on **opioid-sparing strategies**, **patient recovery**, and **ethical innovation in anesthesia practice**.
-
-**Prepared by:** Collin B. George, BS  
-**Affiliation:** Independent Researcher, University of Washington — Seattle, WA, USA  
-**Date:** October 2025 | **Version:** 1.0  
-**GitHub:** [@collingeorge](https://github.com/collingeorge)  
-**Contact:** [contact](https://collingeorge9.wordpress.com/contact)  
-**X (Twitter):** [@CollinGeor12178](https://x.com/CollinGeor12178)
+- **Author:** Collin B. George, BS
+- **Affiliation:** Independent Clinical Researcher & Medical School Applicant
+- (University of Washington; research not affiliated with or endorsed by UW Medicine)
+- **Date:** October 2025 | **Version:** 1.0  
+- **GitHub:** [@collingeorge](https://github.com/collingeorge)  
+- **Contact:** [contact](https://collingeorge9.wordpress.com/contact)  
+- **X (Twitter):** [@CollinGeor12178](https://x.com/CollinGeor12178)
 
 ---
 
